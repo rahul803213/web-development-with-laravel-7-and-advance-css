@@ -1,0 +1,14 @@
+{
+  "name": "codercrush",
+  "version": "1.0.0",
+  "description": "this is free learning website for coder",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "rahul sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
